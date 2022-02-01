@@ -94,6 +94,13 @@
             <artifactId>allure-testng</artifactId>
             <version>${allure-testng.version}</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/ru.yandex.qatools.allure/allure-java-annotations -->
+        <dependency>
+            <groupId>ru.yandex.qatools.allure</groupId>
+            <artifactId>allure-java-annotations</artifactId>
+            <version>1.5.4</version>
+        </dependency>
+
     </dependencies>
 
 </project>
